@@ -26,10 +26,10 @@ A semantic, accessible, and responsive profile card built with plain HTML, CSS, 
 
 ## Usage
 
-Open `profile-card.html` directly in any browser — no build step required.
+Open `index.html` directly in any browser — no build step required.
 
 ```bash
-open profile-card.html
+open index.html
 ```
 
 ---
